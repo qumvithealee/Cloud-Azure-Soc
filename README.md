@@ -32,9 +32,10 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/1qvswSX.png)<br>
-![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+![MSSQL-Auth-Failures](https://i.imgur.com/QpVCHFD.png)<br>
+![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/2nHxToA.png)<br>
+![Linux Syslog Auth Failures](https://i.imgur.com/NBHES3p.png)<br>
+![Windows RDP/SMB Auth Failures](https://i.imgur.com/OlqWDaO.png)<br>
 
 ## Metrics Before Hardening / Security Controls
 
